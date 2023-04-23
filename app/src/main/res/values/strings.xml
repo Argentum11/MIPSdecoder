@@ -5,5 +5,14 @@
     <string name="more_than_32_bits">高於 32 bits</string>
     <string name="not_binary">非2進位的數字</string>
     <string name="unknown_format">Unknown format</string>
-    <string name="r_format">R-format</string>
+    <string name="r_type">R</string>
+    <string name="add">add</string>
+    <string name="subtract">sub</string>
+    <string name="and">and</string>
+    <string name="or">or</string>
+    <string name="nor">nor</string>
+    <string name="shift_left_logical">sll</string>
+    <string name="shift_right_logical">srl</string>
+    <string name="set_if_less_than">slt</string>
+    <string name="jump_register">jr</string>
 </resources>
