@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MIPSdecoder</string>
+    <string name="decode">decode</string>
+    <string name="less_than_32_bits">低於 32 bits</string>
+    <string name="more_than_32_bits">高於 32 bits</string>
+    <string name="not_binary">非2進位的數字</string>
+    <string name="unknown_format">Unknown format</string>
+    <string name="r_format">R-format</string>
+</resources>
