@@ -15,4 +15,10 @@
     <string name="shift_right_logical">srl</string>
     <string name="set_if_less_than">slt</string>
     <string name="jump_register">jr</string>
+    <string name="load_word">lw</string>
+    <string name="store_word">sw</string>
+    <string name="branch_if_equal">beq</string>
+    <string name="branch_if_not_equal">bne</string>
+    <string name="and_immediate">andi</string>
+    <string name="or_immediate">ori</string>
 </resources>
